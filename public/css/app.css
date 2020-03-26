@@ -18,7 +18,16 @@ html {
 
 body {
   margin: 0;
+  
+ background-image: url("");
+ background-color: #cccccc;
+
 }
+
+.home-bg {
+background: url(images/kahawa.png) no-repeat center center fixed;
+}
+
 
 article,
 aside,
